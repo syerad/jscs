@@ -1,0 +1,2 @@
+# jscs
+Javascript CodeStyle
